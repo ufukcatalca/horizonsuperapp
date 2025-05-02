@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Horizon Gizlilik Politikası</title>
+    <title>Horizon Destek Sayfası</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -22,10 +22,30 @@
             font-style: italic;
             margin-bottom: 20px;
         }
+        .divider {
+            border-top: 1px solid #ddd;
+            margin: 40px 0;
+        }
     </style>
 </head>
 <body>
-    <h1>Horizon Gizlilik Politikası</h1>
+    <h1>Horizon Destek Sayfası</h1>
+    
+    <h2>Sık Sorulan Sorular</h2>
+    
+    <h3>Uygulama nasıl kullanılır?</h3>
+    <p>Horizon, bebek ninnileri, günlük aktivite takibi ve daha fazlasını sunan çok yönlü bir uygulamadır.</p>
+    
+    <h3>Ses dosyalarını göremiyorum</h3>
+    <p>İnternet bağlantınızı kontrol edin. Ses dosyaları internet bağlantısı gerektirir.</p>
+    
+    <h2>İletişim</h2>
+    <p>Destek talepleriniz için: <a href="mailto:support@ufukcatalca.com">support@ufukcatalca.com</a></p>
+    
+    <!-- Ayırıcı çizgi -->
+    <div class="divider"></div>
+    
+    <h1 id="gizlilik-politikasi">Gizlilik Politikası</h1>
     <div class="date">Son güncelleme: 2 Mayıs 2023</div>
     
     <p>Horizon uygulamasını kullandığınız için teşekkür ederiz. Gizliliğinize saygı duyuyoruz ve kişisel verilerinizin korunması bizim için önemlidir.</p>
@@ -66,7 +86,5 @@
 
     <h2>İletişim</h2>
     <p>Bu gizlilik politikası ile ilgili sorularınız veya endişeleriniz varsa, lütfen <a href="mailto:support@ufukcatalca.com">support@ufukcatalca.com</a> adresinden bizimle iletişime geçin.</p>
-
-    <p><a href="index.html">Ana Sayfaya Dön</a></p>
 </body>
 </html> 

@@ -146,4 +146,4 @@ Bu Gizlilik Politikası ile ilgili her türlü soru, görüş veya veri silme ta
 
 **Uygulama:** AdımAdım
 
-**E-posta:** [support@ufukcatalca.com](mailto:support@ufukcatalca.com)
+**E-posta:** [ufukcatalca@hotmail.com](mailto:ufukcatalca@hotmail.com)

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Horizon Gizlilik Politikası</title>
+    <title>AdmıAdım Gizlilik Politikası</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -25,13 +25,13 @@
     </style>
 </head>
 <body>
-    <h1>Horizon Gizlilik Politikası</h1>
+    <h1>AdımAdım Gizlilik Politikası</h1>
     <div class="date">Son güncelleme: 2 Mayıs 2023</div>
     
-    <p>Horizon uygulamasını kullandığınız için teşekkür ederiz. Gizliliğinize saygı duyuyoruz ve kişisel verilerinizin korunması bizim için önemlidir.</p>
+    <p>AdımAdım uygulamasını kullandığınız için teşekkür ederiz. Gizliliğinize saygı duyuyoruz ve kişisel verilerinizin korunması bizim için önemlidir.</p>
 
     <h2>Topladığımız Bilgiler</h2>
-    <p>Horizon uygulaması, size daha iyi bir deneyim sunmak için bazı verileri toplar:</p>
+    <p>AdımAdım uygulaması, size daha iyi bir deneyim sunmak için bazı verileri toplar:</p>
     <ul>
         <li>Kullanıcı tarafından sağlanan içerik (örn. adınız, e-posta adresiniz)</li>
         <li>Uygulama kullanım verileri (örn. en çok dinlenen ninniler)</li>

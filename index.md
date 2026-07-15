@@ -108,7 +108,7 @@ Kullanıcılar kişisel verilerinin silinmesini talep edebilir.
 
 Veri silme talebi göndermek için aşağıdaki e-posta adresi kullanılabilir:
 
-**[support@ufukcatalca.com](mailto:support@ufukcatalca.com)**
+**[ufukcatalca@hotmail.com](mailto:ufukcatalca@hotmail.com)**
 
 Talep doğrulandıktan sonra veriler makul süre içerisinde silinir.
 

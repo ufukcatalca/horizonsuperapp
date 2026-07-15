@@ -1,72 +1,149 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>AdmıAdım Gizlilik Politikası</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body { 
-            font-family: Arial, sans-serif; 
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        h1 { color: #333; }
-        h2 { color: #0066cc; margin-top: 30px; }
-        h3 { color: #444; }
-        a { color: #0066cc; }
-        .date { 
-            color: #666;
-            font-style: italic;
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-    <h1>AdımAdım Gizlilik Politikası</h1>
-    <div class="date">Son güncelleme: 2 Mayıs 2023</div>
-    
-    <p>AdımAdım uygulamasını kullandığınız için teşekkür ederiz. Gizliliğinize saygı duyuyoruz ve kişisel verilerinizin korunması bizim için önemlidir.</p>
+# AdımAdım Gizlilik Politikası
 
-    <h2>Topladığımız Bilgiler</h2>
-    <p>AdımAdım uygulaması, size daha iyi bir deneyim sunmak için bazı verileri toplar:</p>
-    <ul>
-        <li>Kullanıcı tarafından sağlanan içerik (örn. adınız, e-posta adresiniz)</li>
-        <li>Uygulama kullanım verileri (örn. en çok dinlenen ninniler)</li>
-        <li>Cihaz bilgileri (işletim sistemi, uygulama sürümü)</li>
-    </ul>
+**Son Güncelleme:** 15 Temmuz 2026
 
-    <h2>Verilerin Kullanımı</h2>
-    <p>Topladığımız bilgileri şu amaçlarla kullanıyoruz:</p>
-    <ul>
-        <li>Uygulamanın temel işlevlerini sağlamak</li>
-        <li>Kullanıcı deneyimini iyileştirmek</li>
-        <li>Yeni özellikler geliştirmek</li>
-        <li>Teknik sorunları gidermek</li>
-    </ul>
+Bu Gizlilik Politikası, **AdımAdım** mobil uygulaması için **Ufuk Çatalca** tarafından hazırlanmıştır.
 
-    <h2>Verilerin Paylaşımı</h2>
-    <p>Kişisel verilerinizi üçüncü taraflarla paylaşmayız, ancak şu durumlar istisnadır:</p>
-    <ul>
-        <li>Yasal zorunluluk durumunda</li>
-        <li>Hizmet sağlayıcılarımızla (örn. hosting, analitik)</li>
-        <li>Şirket birleşmesi veya satın alınması durumunda</li>
-    </ul>
+AdımAdım olarak kullanıcılarımızın gizliliğine önem veriyoruz. Bu politika, uygulamamızı kullandığınızda hangi bilgilerin toplandığını, nasıl kullanıldığını, nasıl saklandığını ve haklarınızı açıklamaktadır.
 
-    <h2>Güvenlik</h2>
-    <p>Verilerinizi korumak için uygun teknik ve organizasyonel önlemler alıyoruz. Ancak hiçbir internet veya elektronik depolama yöntemi %100 güvenli değildir.</p>
+---
 
-    <h2>Çocukların Gizliliği</h2>
-    <p>Uygulamamız 13 yaşın altındaki çocuklar için özel olarak tasarlanmamıştır ve bilinçli olarak bu yaş grubundan kişisel veri toplamayız.</p>
+# 1. Toplanan Veriler
 
-    <h2>Değişiklikler</h2>
-    <p>Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikler olduğunda sizi bilgilendireceğiz.</p>
+AdımAdım aşağıdaki verileri toplayabilir veya bunlara erişebilir:
 
-    <h2>İletişim</h2>
-    <p>Bu gizlilik politikası ile ilgili sorularınız veya endişeleriniz varsa, lütfen <a href="mailto:support@ufukcatalca.com">support@ufukcatalca.com</a> adresinden bizimle iletişime geçin.</p>
+## Sağlık ve Fitness Verileri
 
-    <p><a href="index.html">Ana Sayfaya Dön</a></p>
-</body>
-</html> 
+Kullanıcının açık izni doğrultusunda uygulama aşağıdaki sağlık ve aktivite verilerine erişebilir:
+
+* Günlük adım sayısı
+* Yürüme ve koşu mesafesi
+* Yakılan kalori
+* Aktivite süresi
+* Hareket ve egzersiz verileri
+
+Bu veriler Android cihazlarda **Health Connect** veya desteklenen sağlık servislerinden alınabilir.
+
+Bu veriler yalnızca uygulamanın temel işlevlerini sunmak amacıyla kullanılır.
+
+---
+
+## Cihaz Bilgileri
+
+Uygulama aşağıdaki teknik bilgileri toplayabilir:
+
+* Android sürümü
+* Cihaz modeli
+* Uygulama sürümü
+* Çökme (Crash) raporları
+* Performans ve hata kayıtları
+
+Bu bilgiler uygulamanın güvenliğini ve performansını artırmak amacıyla kullanılmaktadır.
+
+---
+
+## Kullanıcı Tarafından Sağlanan Bilgiler
+
+Kullanıcının uygulamaya isteğe bağlı olarak girdiği bilgiler (örneğin hedef adım sayısı veya profil bilgileri) yalnızca uygulama deneyimini geliştirmek amacıyla kullanılmaktadır.
+
+---
+
+# 2. Verilerin Kullanım Amaçları
+
+Toplanan veriler aşağıdaki amaçlarla kullanılmaktadır:
+
+* Günlük adım sayısını göstermek
+* Aktivite geçmişini oluşturmak
+* İlerleme grafikleri hazırlamak
+* Hedef takibi yapmak
+* Uygulama performansını geliştirmek
+* Hataları tespit edip düzeltmek
+* Güvenliği sağlamak
+
+Sağlık verileri reklam amacıyla kullanılmaz ve satılmaz.
+
+---
+
+# 3. Verilerin Paylaşılması
+
+AdımAdım kullanıcı verilerini satmaz.
+
+Veriler yalnızca aşağıdaki durumlarda paylaşılabilir:
+
+* Kullanıcının açık izni bulunuyorsa
+* Yasal zorunluluk varsa
+* Uygulamanın çalışmasını sağlayan hizmet sağlayıcılarla (örneğin analiz veya hata raporlama hizmetleri)
+
+Bu hizmet sağlayıcılar yalnızca gerekli hizmeti sunabilmek için verilere erişebilir.
+
+---
+
+# 4. Sağlık Verilerinin Kullanımı
+
+Health Connect veya benzeri sağlık servislerinden alınan sağlık verileri yalnızca aşağıdaki amaçlarla kullanılır:
+
+* Adım sayısını göstermek
+* Günlük aktiviteyi hesaplamak
+* Kalori tahmini yapmak
+* Mesafe hesaplamak
+* İstatistik ve ilerleme ekranlarını oluşturmak
+
+Bu sağlık verileri reklam profili oluşturmak, pazarlama yapmak veya üçüncü taraflara satmak amacıyla kullanılmaz.
+
+---
+
+# 5. Veri Saklama Politikası
+
+Kişisel veriler yalnızca hizmeti sunmak için gerekli olduğu süre boyunca saklanır.
+
+Kullanıcının verilerini silmesi veya silme talebinde bulunması halinde, ilgili veriler makul süre içerisinde silinir.
+
+Yasal yükümlülükler gereği saklanması gereken bilgiler ilgili mevzuatta belirtilen süre boyunca tutulabilir.
+
+---
+
+# 6. Veri Silme Talebi
+
+Kullanıcılar kişisel verilerinin silinmesini talep edebilir.
+
+Veri silme talebi göndermek için aşağıdaki e-posta adresi kullanılabilir:
+
+**[support@ufukcatalca.com](mailto:support@ufukcatalca.com)**
+
+Talep doğrulandıktan sonra veriler makul süre içerisinde silinir.
+
+---
+
+# 7. Veri Güvenliği
+
+Kullanıcı bilgilerinin korunması için makul teknik ve idari güvenlik önlemleri uygulanmaktadır.
+
+Bununla birlikte internet üzerinden yapılan hiçbir veri aktarımı veya elektronik depolama yöntemi tamamen güvenli değildir.
+
+---
+
+# 8. Çocukların Gizliliği
+
+AdımAdım, 13 yaşın altındaki çocukları hedefleyen bir uygulama değildir.
+
+Bilerek 13 yaşın altındaki çocuklardan kişisel veri toplanmaz.
+
+---
+
+# 9. Bu Politikanın Güncellenmesi
+
+Bu Gizlilik Politikası gerektiğinde güncellenebilir.
+
+Güncellemeler bu sayfada yayımlandığı tarihten itibaren geçerli olur.
+
+---
+
+# 10. İletişim
+
+Bu Gizlilik Politikası ile ilgili her türlü soru, görüş veya veri silme talebi için bizimle iletişime geçebilirsiniz.
+
+**Geliştirici:** Ufuk Çatalca
+
+**Uygulama:** AdımAdım
+
+**E-posta:** [support@ufukcatalca.com](mailto:support@ufukcatalca.com)
